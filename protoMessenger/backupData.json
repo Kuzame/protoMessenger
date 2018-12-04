@@ -1,0 +1,33 @@
+{
+ "users": {
+  "adr": {"fname":"Adrian","lname":"Harminto","password":"asdf"},
+  "lara": {"fname":"Lara", "lname":"Croft","password":"qwer"},
+  "jason": {"fname":"Jason","lname":"Watt","password":"test"}
+ },
+ "data": {
+  "adr": {
+	  "unreadMsg": [{"from":"lara","msg":"hey!!", "time":"Mon, Dec 03 04:00PM"}],
+	  "readMsg": [],
+	  "wall": ["I play Dota 2"],
+	  "status":"I play Dota 2",
+	  "friendRequests":[],
+	  "friends":["lara"]
+  },
+  "lara": {
+	  "unreadMsg": [],
+	  "readMsg": [],
+	  "wall": ["I play Tomb Raider"],
+	  "status":"I play Tomb Raider",
+	  "friendRequests":[],
+	  "friends":["adr"]
+  },
+  "jason": {
+	  "unreadMsg": [],
+	  "readMsg": [],
+	  "wall": ["I play Minecraft"],
+	  "status":"I play Minecraft",
+	  "friendRequests":["adr"],
+	  "friends":[]
+  }
+ }
+}
