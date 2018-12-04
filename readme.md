@@ -1,5 +1,6 @@
 # protoMessenger
 ### CS164 Networks Final Project
+- Interaction between 1 server and multiple clients
 - Has the following functionality:
 ```
 Main Menu:
